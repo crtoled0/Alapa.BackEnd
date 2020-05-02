@@ -1,0 +1,4 @@
+apps:
+    - script   : './dist/index.js'
+      name     : 'alapa-core'
+      instances: 2
